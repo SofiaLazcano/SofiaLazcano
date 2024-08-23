@@ -1,7 +1,7 @@
 # PRESENTACIÓN PERSONAL <3
 
 ## Información Básica
-![image](https://github.com/user-attachments/assets/a424cd4d-5b7c-44df-9f02-1e1a4e21651f alt="Nyu y yo" width="200")
+<img src="https://github.com/user-attachments/assets/a424cd4d-5b7c-44df-9f02-1e1a4e21651f" alt="Nyu y yo" width="200"/>
 
 **Nombre:** Sofía Lazcano  
 **Edad:** 22 años  
