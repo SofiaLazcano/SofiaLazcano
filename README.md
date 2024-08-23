@@ -1,6 +1,8 @@
-# Presentación Personal
+# PRESENTACIÓN PERSONAL <3
 
 ## Información Básica
+![image](https://github.com/user-attachments/assets/a424cd4d-5b7c-44df-9f02-1e1a4e21651f)
+
 **Nombre:** Sofía Lazcano  
 **Edad:** 22 años  
 **Facultad:** Ciencias Físicas y Matemáticas, Universidad de Chile  
@@ -8,7 +10,7 @@
 **Año:** Quinto año
 
 ## Sobre Mí
-Soy una apasionada de la música, actualmente mi himno es "Last Goodbye" de Jeff Buckley. Me encanta cantar y los sábados bailo K-pop, ¡incluso he ganado una competencia y quedé en tercer lugar en otra con mi grupo!
+Soy una apasionada de la música, actualmente mi himno es "Last Goodbye" de Jeff Buckley. Me encanta cantar y los sábados bailo K-pop, ¡incluso he ganado una competencia y quedé en tercer lugar en otra con mi grupo (Solo hemos ido a 2)! 
 
 También tengo una gran afición por los conejos, soy una fanática empedernida. Me gusta reír y hacer reír a la gente, y tengo un interés especial por el cosmos y el anime.
 
